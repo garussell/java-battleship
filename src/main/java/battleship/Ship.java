@@ -22,6 +22,7 @@ public class Ship {
     }
   }
 
+  // Getter methods
   public String getName() {
     return name;
   }
